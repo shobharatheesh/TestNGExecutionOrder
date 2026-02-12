@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="SuiteLevel">
+    <test name="TestLevel">
+        <classes>
+            <class name="com.udemy.LoginTest"/>
+            <class name="com.udemy.DashboardTest"/>
+        </classes>
+    </test>
+</suite>
