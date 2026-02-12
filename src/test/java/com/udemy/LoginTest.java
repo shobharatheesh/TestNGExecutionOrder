@@ -28,7 +28,7 @@ public class LoginTest {
         System.out.println("5 - Login Test 1");
     }
 
-    @Test
+    @Test(enabled =false)
     public void loginTest2() {
         System.out.println("5 - Login Test 2");
     }
